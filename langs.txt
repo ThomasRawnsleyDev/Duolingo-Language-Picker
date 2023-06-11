@@ -1,0 +1,39 @@
+Spanish
+French
+Japanese
+Korean
+German
+Hindi
+Italian
+Chinese
+Russian
+Arabic
+Portuguese
+Turkish
+Dutch
+Vietnamese
+Greek
+Polish
+Swedish
+Latin
+Irish
+Ukrainian
+Norwegian
+Hebrew
+High Valyrian
+Indonesian
+Finnish
+Danish
+Romanian
+Hawaiian
+Czech
+Welsh
+Swahili
+Hungarian
+Zulu
+Scottish Gaelic
+Haitian Creole
+Esperanto
+Klingon
+Navajo
+Yiddish
